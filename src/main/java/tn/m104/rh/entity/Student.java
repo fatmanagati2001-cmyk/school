@@ -1,3 +1,4 @@
+/*ajout de message pour commit*/
 package tn.m104.rh.entity;
 
 import jakarta.persistence.*;
